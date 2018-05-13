@@ -196,6 +196,8 @@ $all_trashed_items = count($all_items);
                 <div class="col-xs-12 col-sm-12 col-md-12 upper_footer">
                 <div class="col-xs-6 col-sm-6 col-md-6 form ">
                     <h3 style="text-align: center;">Give Your Feedback Here</h3>
+                    <p style="font-size:11px;"> If you want to share your cooked food or if you have any question or suggestion
+					just feel free to inform us</p>
                     <form>
                         <input type="text" name="name" placeholder=" Enter your name" class="form-control"><br>
                         <input type="text" name="email" placeholder="Enter email address" class="form-control"><br>
