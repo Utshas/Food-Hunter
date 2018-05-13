@@ -1,10 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: Rajesh Kumar Nath
- * Date: 04-03-17
- * Time: 02.06
- */
+
 require_once ("../../../../vendor/autoload.php");
 use App\Utility\Utility;
 use App\Message\Message;
