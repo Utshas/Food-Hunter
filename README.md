@@ -16,4 +16,8 @@ Team Mates:
 4. Sazzad (https://www.facebook.com/sazzadurrahman.leon)
 ***********
 ***********
+Future Goal:
+Currently only single admin can upload foods. But, our future goal was to make a UBER like projects, where registered cooks can upload their own food. People can buy them and give then rating according to the service.
+********
+********
 This was our very first PHP project ever. So, for all the mistakes, we are very sorry.
